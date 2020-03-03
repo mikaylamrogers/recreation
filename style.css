@@ -29,7 +29,7 @@
 .the {
   position: absolute;
   top: -2140px;
-  left: 790px;
+  left: 750px;
   font-size: 140px;
   /* tilt text */
   transform: rotate(-5deg);
@@ -38,7 +38,7 @@
 /* text settings in <div> */
 .rolling {
   position: absolute;
-  top: -2080px;
+  top: -2090px;
   left: 293px;
   font-size: 210px;
   /* tilt text */
@@ -49,7 +49,7 @@
 .stones {
   position: absolute;
   top: -1870px;
-  left: 320px;
+  left: 280px;
   font-size: 190px;
 }
 
@@ -66,16 +66,16 @@
 /* text settings in <div> */
 .in {
   position: absolute;
-  top: -1540px;
-  left: 420px;
+  top: -1550px;
+  left: 370px;
   font-size: 210px;
 }
 
 /* text settings in <div> */
 .person {
   position: absolute;
-  top: -1232px;
-  left: 305px;
+  top: -1242px;
+  left: 275px;
   font-size: 110px;
   /* tilt text */
   transform: rotate(-5deg);
@@ -129,15 +129,15 @@
 .one {
   position: absolute;
   top: -250px;
-  left: 870px;
-  font-size: 45px;
+  left: 830px;
+  font-size: 40px;
 }
 
 /* text settings in <div> */
 .two {
   position: absolute;
   top: -190px;
-  left: 870px;
+  left: 820px;
   font-size: 45px;
 }
 
@@ -145,7 +145,7 @@
 .three {
   position: absolute;
   top: -120px;
-  left: 870px;
+  left: 828px;
   font-size: 45px;
 }
 
@@ -162,7 +162,7 @@
 .in2 {
   position: absolute;
   top: -780px;
-  left: 1150px;
+  left: 1120px;
   font-size: 140px;
   transform: rotate(5deg);
 }
@@ -171,6 +171,6 @@
 .concert {
   position: absolute;
   top: -585px;
-  left: 950px;
+  left: 910px;
   font-size: 90px;
 }
