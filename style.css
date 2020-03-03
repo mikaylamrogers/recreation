@@ -1,0 +1,176 @@
+/* align container items in center */
+.FirstContainer {
+  position: relative;
+  text-align: center;
+}
+
+/* position of text of title <div> */
+.title {
+  position: absolute;
+  top: 60px;
+  left: 115px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 43px;
+  font-style: black;
+  color: black;
+}
+
+/* text settings in <div> */
+.SecondContainer {
+  position: relative;
+  text-align: center;
+  font-family: 'Chewy';
+  /* add leading in between letters */
+  letter-spacing: 15px;
+  color: #ede9de;
+}
+
+/* text settings in <div> */
+.the {
+  position: absolute;
+  top: -2140px;
+  left: 790px;
+  font-size: 140px;
+  /* tilt text */
+  transform: rotate(-5deg);
+}
+
+/* text settings in <div> */
+.rolling {
+  position: absolute;
+  top: -2080px;
+  left: 293px;
+  font-size: 210px;
+  /* tilt text */
+  transform: rotate(2deg);
+}
+
+/* text settings in <div> */
+.stones {
+  position: absolute;
+  top: -1870px;
+  left: 320px;
+  font-size: 190px;
+}
+
+/* text settings in <div> */
+.ThirdContainer {
+  position: relative;
+  text-align: center;
+  font-family: 'Chewy';
+  /* add leading in between letters */
+  letter-spacing: 5px;
+  color: #c7261e;
+}
+
+/* text settings in <div> */
+.in {
+  position: absolute;
+  top: -1540px;
+  left: 420px;
+  font-size: 210px;
+}
+
+/* text settings in <div> */
+.person {
+  position: absolute;
+  top: -1232px;
+  left: 305px;
+  font-size: 110px;
+  /* tilt text */
+  transform: rotate(-5deg);
+}
+
+/* text settings in <div> */
+.FooterContainer {
+  position: relative;
+  text-align: center;
+  font-family: 'Caveat';
+  letter-spacing: 5px;
+  color: black;
+  /* tilt text */
+  transform: rotate(-1deg);
+}
+
+/* text settings in <div> */
+.date {
+  position: absolute;
+  top: -320px;
+  left: 100px;
+  font-size: 50px;
+  }
+
+/* text settings in <div> */
+.arena {
+  position: absolute;
+  top: -225px;
+  left: 100px;
+  font-size: 50px;
+}
+
+/* text settings in <div> */
+.ohio {
+  position: absolute;
+  top: -140px;
+  left: 100px;
+  font-size: 50px;
+}
+
+/* text settings in <div> */
+.tickets {
+  position: absolute;
+  top: -310px;
+  left: 930px;
+  font-size: 40px;
+  text-decoration: underline;
+}
+
+/* text settings in <div> */
+.one {
+  position: absolute;
+  top: -250px;
+  left: 870px;
+  font-size: 45px;
+}
+
+/* text settings in <div> */
+.two {
+  position: absolute;
+  top: -190px;
+  left: 870px;
+  font-size: 45px;
+}
+
+/* text settings in <div> */
+.three {
+  position: absolute;
+  top: -120px;
+  left: 870px;
+  font-size: 45px;
+}
+
+/* text settings in <div> */
+.LastContainer {
+  position: absolute;
+  text-align: center;
+  font-family: 'Chewy';
+  letter-spacing: 10px;
+  color: #ede9de;
+}
+
+/* text settings in <div> */
+.in2 {
+  position: absolute;
+  top: -780px;
+  left: 1150px;
+  font-size: 140px;
+  transform: rotate(5deg);
+}
+
+/* text settings in <div> */
+.concert {
+  position: absolute;
+  top: -585px;
+  left: 950px;
+  font-size: 90px;
+}
